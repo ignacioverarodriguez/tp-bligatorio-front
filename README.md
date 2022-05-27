@@ -1,6 +1,9 @@
 # Página de la Coordinadora de Fútbol Feminista
 
 
-## https://github.com/ignacioverarodriguez/tp-bligatorio-front
+## https://tpo-ignaciovera.netlify.app/
+
+
+
 
 ### github.com/ignacioverarodriguez
